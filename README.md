@@ -63,7 +63,7 @@
 - [KeePassXC](https://keepassxc.org) : KeePassXC is a modern, secure, and open-source password manager that stores and manages your most sensitive information. [![][repo]](https://github.com/keepassxreboot/keepassxc)
 - [VeraCrypt](https://www.veracrypt.fr) : VeraCrypt is an open source and cross-platform disk encryption software. Encryption is automatic, real-time(on-the-fly) and transparent. [![][repo]](https://github.com/veracrypt/VeraCrypt)
 - [ZoneMinder](https://www.zoneminder.com) : ZoneMinder is an integrated set of applications which provide a complete surveillance solution allowing capture, analysis, recording and monitoring of any CCTV or security cameras. [![][repo]](https://github.com/ZoneMinder/zoneminder)
-  - [zmNinja](https://github.com/ZoneMinder/zmninja) :  zmNinja is a multi-platform client for ZoneMinder users.
+  - [zmNinjaNg](https://zmninjang.zoneminder.com) :  zmNinjaNg is a multi-platform client for ZoneMinder users. [![][repo]](https://github.com/ZoneMinder/zmNinjaNg)
 
 
 ## :recycle: Backup & Recovery
@@ -204,7 +204,7 @@
 
 - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) : DaVinci Resolve is a professional Post Production solution that combines editing, color correction, visual effects, motion graphics and audio post production all in one software tool. Supports Mac, Windows and Linux. *[Note: Online account required]*
   - [CorridorKey-Runtime](https://github.com/alexandremendoncaalvaro/CorridorKey-Runtime) : Native AI keying runtime and OFX plugin for DaVinci Resolve. Uses AI green and blue screen keyer by Corridor Digital.
-- [Astrofox](https://astrofox.io) :  [![][repo]]()
+- [Astrofox](https://astrofox.io) : Astrofox is a motion graphics program that lets you turn audio into amazing videos. [![][repo]](https://github.com/astrofox-io/astrofox)
 - [cameractrls](https://github.com/soyersoyer/cameractrls) :  [![][repo]]()
 - [digiCamControl](http://digicamcontrol.com) :  [![][repo]]()
 - [HandBrake](https://handbrake.fr) :  [![][repo]]()
@@ -212,9 +212,9 @@
 - [MKVToolNix](https://mkvtoolnix.download) :  [![][repo]]()
 - [Natron](https://natrongithub.github.io) :  [![][repo]]()
 - [OBS Studio](https://obsproject.com) :  [![][repo]]()
-- [Subtitle Edit](https://www.nikse.dk/SubtitleEdit) :  [![][repo]]()
-- [Upscayl](https://github.com/upscayl/upscayl) :  [![][repo]]()
-- [Waifu2x Extension](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) :  [![][repo]]()
+- [Subtitle Edit](https://www.nikse.dk/SubtitleEdit) : Subtitle Edit is a free (open source) editor for video subtitles. [![][repo]](https://github.com/SubtitleEdit/subtitleedit)
+- [ComfyUI](https://comfy.org) : The most powerful and modular AI creation model GUI, api and backend with a graph/nodes interface. [![][repo]](https://github.com/Comfy-Org/ComfyUI)
+- [Waifu2x Extension](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) : Image & GIF & Video Super-Resolution and Video Frame Interpolation using Deep Convolutional Neural Networks.
 
 
 ## :globe_with_meridians: Internet
@@ -238,7 +238,7 @@
 - [KDE Connect](https://kdeconnect.kde.org) :  [![][repo]]()
 - [LocalSend](https://localsend.org) :  [![][repo]]()
 - [Npcap](https://npcap.com) : Npcap is the Nmap Project's packet capture (and sending) library for Microsoft Windows. It implements the open Pcap API using a custom Windows kernel driver alongside our Windows build of the excellent libpcap library. This allows Windows software to capture raw network traffic (including wireless networks, wired ethernet, localhost traffic, and many VPNs) using a simple, portable API.
-- [PowerTunnel](https://github.com/krlvm/PowerTunnel) :  [![][repo]]()
+- [GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel) : GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.
 - [RetroShare](https://retroshare.cc) :  [![][repo]]()
 - [SoftEther VPN](https://www.softether.org) : SoftEther VPN is one of the most powerful and easy-to-use multi-protocol VPN software in the world. It is freeware, developed as an academic research project in University of Tsukuba, Japan. [![][repo]](https://github.com/SoftEtherVPN/SoftEtherVPN)
   - [VPN Gate](https://www.vpngate.net) : VPN Gate is an extended plug-in for SoftEther VPN to use as shared VPN service.
@@ -269,7 +269,6 @@
 - [Avro Keyboard](https://www.omicronlab.com/avro-keyboard.html) :  [![][repo]]()
 - [GoldenDict-ng](https://xiaoyifang.github.io/goldendict-ng/) : GoldenDict-ng is an advanced dictionary lookup program, supporting many formats. [![][repo]](https://github.com/xiaoyifang/goldendict-ng)
 - [ISO Master](https://littlesvr.ca/isomaster/) : ISO Master is an open-source, easy to use, graphical ISO image editor for Linux and BSD. [![][repo]](https://github.com/rizalmart/isomaster3)
-- [KDiff3](https://apps.kde.org/kdiff3) :  [![][repo]]()
 - [Koodo Reader](https://github.com/troyeguo/koodo-reader) :  [![][repo]]()
 - [NAPS2](https://www.naps2.com) :  [![][repo]]()
 - [OpenBangla Keyboard](https://openbangla.github.io) :  [![][repo]]()
@@ -340,6 +339,7 @@
 - [Git](https://git-scm.com) :  [![][repo]]()
 - [Java SDK](https://adoptium.net) :  [![][repo]]()
 - [LLVM/Clang](https://llvm.org) :  [![][repo]]()
+- [Meld](https://meldmerge.org) : Meld helps you compare files, directories, and version controlled projects. It provides two and three way comparison of both files and directories, and has support for many popular version control systems. [![][repo]](https://gitlab.gnome.org/GNOME/meld)
 - [Meson](https://mesonbuild.com) :  [![][repo]]()
 - [MSYS2](https://www.msys2.org) :  [![][repo]]()
 - [NSIS](https://nsis.sourceforge.io) :  [![][repo]]()
