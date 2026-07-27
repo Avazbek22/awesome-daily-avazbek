@@ -344,6 +344,7 @@
 - [MSYS2](https://www.msys2.org) :  [![][repo]]()
 - [NSIS](https://nsis.sourceforge.io) :  [![][repo]]()
 - [Python](https://www.python.org) :  [![][repo]]()
+- [DevProjex](https://github.com/Avazbek22/DevProjex) : Cross-platform GUI and CLI for selecting project files and exporting structured, token-counted context with Smart Ignore, preview, and multiple formats. [![][repo]](https://github.com/Avazbek22/DevProjex)
 
   #### :jigsaw: Extensions: [*Python Package Index (PyPI)*](https://pypi.org)
   - PyQt6
