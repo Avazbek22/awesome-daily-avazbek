@@ -248,6 +248,8 @@
 
 
 ## :film_strip: Media Viewers
+- [VideoDownloaderBot](https://github.com/Avazbek22/VideoDownloaderBot) - Self-hosted Telegram media downloader with Video, original-file, and MP3 delivery. [![][repo]](https://github.com/Avazbek22/VideoDownloaderBot)
+- [LinkDownloaderBotForGroups](https://github.com/Avazbek22/LinkDownloaderBotForGroups) - Telegram group bot that turns shared video links into native posts with media reuse and rollback. [![][repo]](https://github.com/Avazbek22/LinkDownloaderBotForGroups)
 
 - [VLC Media Player](https://www.videolan.org) :  [![][repo]]()
 - [MPC-BE](https://github.com/Aleksoid1978/MPC-BE) :  [![][repo]]()
