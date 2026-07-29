@@ -189,15 +189,15 @@
 
 ### Tools
 
-  - [Effekseer](https://effekseer.github.io/en) :  [![][repo]]()
-  - [Hugin](https://hugin.sourceforge.io) :  [![][repo]]()
-  - [Luminance HDR](https://sourceforge.net/projects/qtpfsgui) :  [![][repo]]()
-  - [Material Maker](https://www.materialmaker.org) :  [![][repo]]()
-  - [MeshLab](https://www.meshlab.net) :  [![][repo]]()
-  - [Meshroom](https://alicevision.org/#meshroom) :  [![][repo]]()
-  - [Papagayo-NG](https://morevnaproject.org/papagayo-ng) :  [![][repo]]()
-  - [PixelPlanets](https://deep-fold.itch.io/pixel-planet-generator) :  [![][repo]](https://github.com/Deep-Fold/PixelPlanets)
-  - [Tree It](https://www.evolved-software.com/treeit/treeit) :  
+  - [Effekseer](https://effekseer.github.io/en) : A free, open source particle effect editor used to create visual effects such as explosions, fire, smoke, magic spells, and sparks for games and animations. It supports major game engines like Unity and Unreal Engine, allowing effects to be exported and integrated across multiple platforms. [![][repo]]()
+  - [Hugin](https://hugin.sourceforge.io) : An open source panorama stitching application that combines multiple overlapping photos into seamless panoramic or 360° images. It also includes tools for exposure correction, HDR merging, lens distortion correction, and perspective adjustment. [![][repo]]()
+  - [Luminance HDR](https://sourceforge.net/projects/qtpfsgui) : An open source High Dynamic Range (HDR) imaging application used to create HDR photos by combining multiple images taken at different exposure levels. It also provides tone mapping tools to produce realistic or artistic images suitable for display on standard screens. [![][repo]]()
+  - [Material Maker](https://www.materialmaker.org) : A free, open source procedural material authoring tool for creating physically based rendering (PBR) textures. It uses a node-based workflow to generate customizable materials such as wood, stone, metal, and fabric for 3D models and game development. [![][repo]]()
+  - [MeshLab](https://www.meshlab.net) : An open source software for processing, editing, and analyzing 3D meshes and point clouds. It is widely used for cleaning scanned models, repairing geometry, simplifying meshes, measuring objects, and converting between various 3D file formats. [![][repo]]()
+  - [Meshroom](https://alicevision.org/#meshroom) : A free photogrammetry software that reconstructs detailed 3D models from a collection of photographs using computer vision techniques. It is powered by the AliceVision framework and is commonly used for cultural heritage preservation, game assets, and visual effects. [![][repo]]()
+  - [Papagayo-NG](https://morevnaproject.org/papagayo-ng) : An open source lip-sync tool that automatically aligns dialogue with phonemes to generate mouth movements for animated characters. It helps animators synchronize speech with 2D or 3D character animations, reducing the amount of manual work. [![][repo]]()
+  - [PixelPlanets](https://deep-fold.itch.io/pixel-planet-generator) : An open source procedural planet generator that creates pixel art planets, moons, and celestial bodies. It is primarily used by game developers and pixel artists to quickly generate customizable space-themed assets. [![][repo]](https://github.com/Deep-Fold/PixelPlanets)
+  - [Tree It](https://www.evolved-software.com/treeit/treeit) : A lightweight 3D tree modeling software for creating low-polygon trees, bushes, and vegetation for games and real-time applications. It offers procedural controls for branch and leaf generation and exports models to common 3D formats for use in game engines. [![][repo]]()
 
 
 ## :clapper: Video Production
@@ -205,13 +205,13 @@
 - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) : DaVinci Resolve is a professional Post Production solution that combines editing, color correction, visual effects, motion graphics and audio post production all in one software tool. Supports Mac, Windows and Linux. *[Note: Online account required]*
   - [CorridorKey-Runtime](https://github.com/alexandremendoncaalvaro/CorridorKey-Runtime) : Native AI keying runtime and OFX plugin for DaVinci Resolve. Uses AI green and blue screen keyer by Corridor Digital.
 - [Astrofox](https://astrofox.io) : Astrofox is a motion graphics program that lets you turn audio into amazing videos. [![][repo]](https://github.com/astrofox-io/astrofox)
-- [cameractrls](https://github.com/soyersoyer/cameractrls) :  [![][repo]]()
-- [digiCamControl](http://digicamcontrol.com) :  [![][repo]]()
-- [HandBrake](https://handbrake.fr) :  [![][repo]]()
-- [Kdenlive](https://kdenlive.org) :  [![][repo]]()
-- [MKVToolNix](https://mkvtoolnix.download) :  [![][repo]]()
-- [Natron](https://natrongithub.github.io) :  [![][repo]]()
-- [OBS Studio](https://obsproject.com) :  [![][repo]]()
+- [cameractrls](https://github.com/soyersoyer/cameractrls) : A free and open source camera control application for Linux that allows users to adjust settings such as exposure, focus, zoom, white balance, and pan/tilt on supported USB and PTZ cameras. It is useful for webcams, video conferencing, streaming, and content creation. [![][repo]]()
+- [digiCamControl](http://digicamcontrol.com) : A free and open source camera control software for Windows that enables remote control of compatible DSLR and mirrorless cameras, primarily from Nikon and Canon. It supports live view, image capture, time-lapse photography, focus stacking, and instant image transfer to a computer. [![][repo]]()
+- [HandBrake](https://handbrake.fr) : A free and open source video transcoder used to convert video files between a wide range of formats and codecs. It offers features such as video compression, resizing, cropping, subtitle support, and batch processing for creating optimized video files. [![][repo]]()
+- [Kdenlive](https://kdenlive.org) : A free and open source non-linear video editor designed for creating professional-quality videos. It includes multi-track editing, transitions, effects, color correction, audio editing, and support for a wide variety of video and audio formats. [![][repo]]()
+- [MKVToolNix](https://mkvtoolnix.download) : A free and open source toolkit for creating, editing, inspecting, and merging Matroska (MKV) multimedia files. It allows users to add or remove audio tracks, subtitles, chapters, and metadata without re-encoding the video. [![][repo]]()
+- [Natron](https://natrongithub.github.io) : A free and open source node-based compositing software used for visual effects (VFX) and motion graphics production. It provides professional tools for compositing, keying, tracking, rotoscoping, and color correction in film and video projects. [![][repo]]()
+- [OBS Studio](https://obsproject.com) : A free and open source software for live streaming and screen recording. It supports real-time video and audio capture, scene composition, multiple input sources, and streaming to platforms such as YouTube, Twitch, and Facebook Live. [![][repo]]()
 - [Subtitle Edit](https://www.nikse.dk/SubtitleEdit) : Subtitle Edit is a free (open source) editor for video subtitles. [![][repo]](https://github.com/SubtitleEdit/subtitleedit)
 - [ComfyUI](https://comfy.org) : The most powerful and modular AI creation model GUI, api and backend with a graph/nodes interface. [![][repo]](https://github.com/Comfy-Org/ComfyUI)
 - [Waifu2x Extension](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) : Image & GIF & Video Super-Resolution and Video Frame Interpolation using Deep Convolutional Neural Networks.
@@ -219,8 +219,8 @@
 
 ## :globe_with_meridians: Internet
 
-- [Firefox](https://www.mozilla.org/en-US/firefox/) :  [![][repo]]()
-- [Thorium](https://thorium.rocks) :  [![][repo]]()
+- [Firefox](https://www.mozilla.org/en-US/firefox/) : A free and open source web browser developed by Mozilla, focused on privacy, security, and web standards. It offers features such as Enhanced Tracking Protection, extensive extension support, and cross-platform synchronization. [![][repo]]()
+- [Thorium](https://thorium.rocks) : A free and open source Chromium-based web browser optimized for speed and performance. It includes compiler-level optimizations, privacy-focused features, and support for Chrome extensions while maintaining compatibility with modern web standards. [![][repo]]()
 
   #### :jigsaw: Browser Addon: [*Firefox Add-ons*](https://addons.mozilla.org/firefox/) / [*Chrome Web Store*](https://chrome.google.com/webstore/)
    - [uBlock Origin](https://github.com/gorhill/uBlock) : It's not only an "ad blocker", it can also block a wide-spectrum content.
@@ -229,35 +229,35 @@
    - [LanguageTool](https://languagetool.org) : Open source Grammar Checker & Paraphraser.
    - [Linguist](https://github.com/translate-tools/linguist) : Translate web pages, highlighted text, Netflix subtitles, private messages, speak text, and save important translations to your personal dictionary.
 
-- [Thunderbird](https://www.thunderbird.net) :  [![][repo]]()
-- [Free Download Manager](https://www.freedownloadmanager.org) : 
-- [qBittorrent](https://www.qbittorrent.org) :  [![][repo]]()
-- [Open Video Downloader](https://jely2002.github.io/youtube-dl-gui/) :  [![][repo]](https://github.com/jely2002/youtube-dl-gui)
-- [RustDesk](https://rustdesk.com) :  [![][repo]]()
-- [FileZilla](https://filezilla-project.org) :  [![][repo]]()
-- [KDE Connect](https://kdeconnect.kde.org) :  [![][repo]]()
-- [LocalSend](https://localsend.org) :  [![][repo]]()
+- [Thunderbird](https://www.thunderbird.net) : A free and open source email client developed by Mozilla that supports multiple email accounts, calendars, contacts, and RSS feeds. It includes advanced spam filtering, encryption support, and extensive customization through add-ons. [![][repo]]()
+- [Free Download Manager](https://www.freedownloadmanager.org) : A free and open source download manager that accelerates file downloads and supports HTTP, HTTPS, FTP, BitTorrent, and magnet links. It also offers download scheduling, bandwidth management, resume capability, and browser integration. [![][repo]]()
+- [qBittorrent](https://www.qbittorrent.org) : A free and open source BitTorrent client that provides a clean, ad-free interface for downloading and sharing torrent files. It includes features such as an integrated torrent search engine, RSS support, bandwidth control, and remote web management. [![][repo]]()
+- [Open Video Downloader](https://jely2002.github.io/youtube-dl-gui/) : A free and open source application for downloading videos and audio from YouTube and hundreds of other supported websites. It provides a simple graphical interface for selecting formats, resolutions, subtitles, and playlists. [![][repo]](https://github.com/jely2002/youtube-dl-gui)
+- [RustDesk](https://rustdesk.com) : A free and open source remote desktop software that allows secure remote access and device control over the internet or local network. Users can self-host their own server for enhanced privacy and full control over remote connections. [![][repo]]()
+- [FileZilla](https://filezilla-project.org) : A free and open source FTP client for transferring files between local and remote systems. It supports FTP, FTPS, and SFTP protocols, along with features such as drag-and-drop transfers, resume support, and site management. [![][repo]]()
+- [KDE Connect](https://kdeconnect.kde.org) : A free and open source application that seamlessly connects Android devices with Linux, Windows, and other desktop operating systems. It enables file sharing, clipboard synchronization, notification mirroring, remote input, and SMS management. [![][repo]]()
+- [LocalSend](https://localsend.org) : A free and open source cross-platform file sharing application that transfers files securely over a local network without requiring an internet connection or cloud service. It supports Windows, macOS, Linux, Android, and iOS devices. [![][repo]]()
 - [Npcap](https://npcap.com) : Npcap is the Nmap Project's packet capture (and sending) library for Microsoft Windows. It implements the open Pcap API using a custom Windows kernel driver alongside our Windows build of the excellent libpcap library. This allows Windows software to capture raw network traffic (including wireless networks, wired ethernet, localhost traffic, and many VPNs) using a simple, portable API.
 - [GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel) : GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.
-- [RetroShare](https://retroshare.cc) :  [![][repo]]()
+- [RetroShare](https://retroshare.cc) : A free and open source peer-to-peer communication platform that enables secure messaging, file sharing, forums, voice calls, and decentralized social networking. It uses end-to-end encryption and a friend-to-friend network model to protect user privacy. [![][repo]]()
 - [SoftEther VPN](https://www.softether.org) : SoftEther VPN is one of the most powerful and easy-to-use multi-protocol VPN software in the world. It is freeware, developed as an academic research project in University of Tsukuba, Japan. [![][repo]](https://github.com/SoftEtherVPN/SoftEtherVPN)
   - [VPN Gate](https://www.vpngate.net) : VPN Gate is an extended plug-in for SoftEther VPN to use as shared VPN service.
-- [Tor Browser](https://www.torproject.org) :  [![][repo]]()
-- [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) :  [![][repo]]()
-- [WebChange Monitor](https://sourceforge.net/projects/webchangemon/) :  [![][repo]]()
+- [Tor Browser](https://www.torproject.org) : A free and open source web browser that routes internet traffic through the Tor network to enhance privacy and anonymity. It helps protect users from tracking, surveillance, and censorship while browsing the web. [![][repo]]()
+- [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) : A free and open source Windows desktop utility that displays real-time network speed, CPU usage, memory usage, and other system information in the taskbar or a floating window. It is lightweight and highly customizable for system monitoring. [![][repo]]()
+- [WebChange Monitor](https://sourceforge.net/projects/webchangemon/) : A free and open source website monitoring tool that automatically checks web pages for changes and notifies users when updates are detected. It supports monitoring websites, feeds, documents, and APIs, making it useful for tracking announcements, price changes, and content updates. [![][repo]]()
 
 
 ## :film_strip: Media Viewers
 
-- [VLC Media Player](https://www.videolan.org) :  [![][repo]]()
-- [MPC-BE](https://github.com/Aleksoid1978/MPC-BE) :  [![][repo]]()
-- [Kodi](https://kodi.tv) :  [![][repo]]()
-  - [MythTV](https://www.mythtv.org) :  [![][repo]]()
-  - [TVMosaic](https://gitlab.com/tvmosaic/server) : 
-- [DJV](https://darbyjohnston.github.io/DJV) :  [![][repo]]()
-- [ImageGlass](https://imageglass.org) :  [![][repo]]()
-- [Icaros](https://github.com/Xanashi/Icaros) :  [![][repo]]()
-- [MediaInfo](https://mediaarea.net/en/MediaInfo) :  [![][repo]]()
+- [VLC Media Player](https://www.videolan.org) : A free and open source multimedia player that supports virtually all audio and video formats without requiring additional codecs. It also provides features such as media streaming, subtitle synchronization, screen recording, and media conversion. [![][repo]]()
+- [MPC-BE](https://github.com/Aleksoid1978/MPC-BE) : A free and open source lightweight media player for Windows designed for high-performance video playback. It supports a wide range of audio and video formats, hardware acceleration, subtitles, and extensive playback customization. [![][repo]]()
+- [Kodi](https://kodi.tv) : A free and open source media center application that organizes and plays local and online media through a customizable interface. It supports movies, TV shows, music, photos, live TV, DVR functionality, and a large ecosystem of community add-ons. [![][repo]]()
+  - [MythTV](https://www.mythtv.org) : A free and open source digital video recorder (DVR) and home theater software primarily designed for Linux. It allows users to watch, record, schedule, and manage live television while also serving as a complete multimedia entertainment system. [![][repo]]()
+  - [TVMosaic](https://gitlab.com/tvmosaic/server) : A cross-platform personal video recorder (PVR) and media server that enables users to watch, record, and stream live television across multiple devices. It supports network TV tuners, electronic program guides (EPG), and media library management. [![][repo]]()
+- [DJV](https://darbyjohnston.github.io/DJV) : A free and open source professional media playback and review application designed for visual effects, animation, and film production. It supports high-resolution image sequences, video playback, color management, and frame-accurate review workflows. [![][repo]]()
+- [ImageGlass](https://imageglass.org) : A free and open source lightweight image viewer for Windows that supports over 80 image formats. It offers fast image loading, slideshow functionality, format conversion, and a modern, customizable interface. [![][repo]]()
+- [Icaros](https://github.com/Xanashi/Icaros) : A free and open source Windows Shell extension that provides thumbnail previews and detailed property information for a wide variety of video, audio, and image formats in File Explorer. It enhances media browsing without requiring a dedicated media player. [![][repo]]()
+- [MediaInfo](https://mediaarea.net/en/MediaInfo) : A free and open source utility that displays detailed technical information about audio, video, and subtitle files. It reports metadata such as codecs, bitrates, resolution, frame rate, audio channels, and container formats, making it valuable for media analysis and troubleshooting. [![][repo]]()
 
 
 ## :briefcase: Office
