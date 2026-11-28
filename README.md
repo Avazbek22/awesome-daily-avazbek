@@ -447,6 +447,7 @@
 - [MSI Afterburner](https://www.msi.com/Landing/afterburner) : 
 - [System Informer](https://systeminformer.io) : A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. [![][repo]](https://github.com/winsiderss/systeminformer)
 - [TUXEDO Control Center](https://www.tuxedocomputers.com/en/TUXEDO-Control-Center-TCC.tuxedo) : TUXEDO Control Center (TCC) gives Linux laptop users full control over their hardware like CPU cores, fan speed and more. [![][repo]](https://github.com/tuxedocomputers/tuxedo-control-center)
+- [StereoKeeper](https://github.com/Avazbek22/StereoKeeper) : Windows tray app that fixes bad Bluetooth headphone sound. When a game, Discord or OBS uses the headset mic, Windows switches to Hands-Free mode and the sound becomes mono like a phone call; StereoKeeper brings back stereo in one click. [![][repo]](https://github.com/Avazbek22/StereoKeeper)
 
 
 ## :man_technologist: Hacking & Forensics Tools
